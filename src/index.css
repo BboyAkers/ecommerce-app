@@ -9,26 +9,26 @@
   }
   h1 {
     font-family: 'Manrope', sans-serif;
-    @apply font-bold uppercase text-[3.5rem];
+    @apply font-bold uppercase text-[3.5em] tracking-[0.036em];
   }
   h2 {
     font-family: 'Manrope', sans-serif;
-    @apply font-bold uppercase text-[2.5rem];
+    @apply font-bold uppercase text-[2.5em] tracking-[0.037em];
   }
   h3 {
     font-family: 'Manrope', sans-serif;
-    @apply font-bold uppercase text-[2rem];
+    @apply font-bold uppercase text-[2em] tracking-[0.047em];
   }
   h4 {
     font-family: 'Manrope', sans-serif;
-    @apply font-bold uppercase text-[1.75rem];
+    @apply font-bold uppercase text-[1.75em] tracking-[0.072em];
   }
   h5 {
     font-family: 'Manrope', sans-serif;
-    @apply font-bold uppercase text-[1.5rem];
+    @apply font-bold uppercase text-[1.5em] tracking-[0.071em];
   }
   h6 {
     font-family: 'Manrope', sans-serif;
-    @apply font-bold uppercase text-[1.125rem];
+    @apply font-bold uppercase text-[1.125em] tracking-[0.072em];
   }
 }
