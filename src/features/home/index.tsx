@@ -1,3 +1,5 @@
+import { Button } from "@/components/ui/button";
+
 function Home() {
   return (
     <>
@@ -25,6 +27,7 @@ function Home() {
         helping you get the most out of personal audio. Come and visit our demo
         facility - we’re open 7 days a week. Copyright 2021. All Rights Reserved
       </p>
+      <Button>See Product</Button>
     </>
   );
 }
